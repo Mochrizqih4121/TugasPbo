@@ -1,0 +1,14 @@
+C:\Users\Linda\source\repos\Beta\Beta\bin\Debug\net6.0\Beta.exe
+C:\Users\Linda\source\repos\Beta\Beta\bin\Debug\net6.0\Beta.deps.json
+C:\Users\Linda\source\repos\Beta\Beta\bin\Debug\net6.0\Beta.runtimeconfig.json
+C:\Users\Linda\source\repos\Beta\Beta\bin\Debug\net6.0\Beta.dll
+C:\Users\Linda\source\repos\Beta\Beta\bin\Debug\net6.0\Beta.pdb
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.AssemblyInfoInputs.cache
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.AssemblyInfo.cs
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.csproj.CoreCompileInputs.cache
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.dll
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\refint\Beta.dll
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.pdb
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\Beta.genruntimeconfig.cache
+C:\Users\Linda\source\repos\Beta\Beta\obj\Debug\net6.0\ref\Beta.dll

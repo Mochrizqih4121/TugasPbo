@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemMarketPlaceSepatu", "Beta\SistemMarketPlaceSepatu.csproj", "{0A730641-CF20-4977-9174-EF29C2878DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A730641-CF20-4977-9174-EF29C2878DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A730641-CF20-4977-9174-EF29C2878DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A730641-CF20-4977-9174-EF29C2878DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A730641-CF20-4977-9174-EF29C2878DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D07D950-D3DB-4E12-BE49-F9933FA2D543}
+	EndGlobalSection
+EndGlobal

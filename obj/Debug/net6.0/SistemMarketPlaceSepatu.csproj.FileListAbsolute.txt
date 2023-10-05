@@ -1,0 +1,14 @@
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\bin\Debug\net6.0\SistemMarketPlaceSepatu.exe
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\bin\Debug\net6.0\SistemMarketPlaceSepatu.deps.json
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\bin\Debug\net6.0\SistemMarketPlaceSepatu.runtimeconfig.json
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\bin\Debug\net6.0\SistemMarketPlaceSepatu.dll
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\bin\Debug\net6.0\SistemMarketPlaceSepatu.pdb
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.AssemblyInfoInputs.cache
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.AssemblyInfo.cs
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.csproj.CoreCompileInputs.cache
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.dll
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\refint\SistemMarketPlaceSepatu.dll
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.pdb
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\SistemMarketPlaceSepatu.genruntimeconfig.cache
+C:\Users\Linda\source\repos\TokoGaruda71\Beta\obj\Debug\net6.0\ref\SistemMarketPlaceSepatu.dll
